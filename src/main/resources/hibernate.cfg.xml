@@ -14,7 +14,7 @@
         <property name="show_sql">true</property> <!--> для просмотра запроса, для отладки -->
         <property name="current_session_context_class">thread</property>
 
-        <mapping class="model.Student"/> <!--> будем мапить объекты класса Student -->
+        <mapping class="model.Product"/> <!--> будем мапить объекты класса Product -->
     </session-factory>
 </hibernate-configuration>
 
